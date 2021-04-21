@@ -8,7 +8,7 @@
 
 <hr>
 
-<p>NLW (Next Level Week) #4 project, by RocketSeat.</p>
+<p>NLW (Next Level Week) #5 project, by RocketSeat.</p>
 
 <p>Podcastr in an online podcasts platform.</p>
 
@@ -21,6 +21,9 @@
 </li>
 <li>
     <a href="https://nextjs.org/">Next.js</a>
+</li>
+<li>
+    <a href="https://sass-lang.com/">Sass</a>
 </li>
 
 <br>

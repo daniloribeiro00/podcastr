@@ -30,8 +30,12 @@
 
 <h1 style="font: 50px">Preview</h1>
 
-<!-- <img style="max-width: 400px;" src="./public/preview.png"> -->
+<p>Home (Player off):</p>
+<img style="max-width: 400px;" src="./public/preview1.png">
 
-<h1 style="font: 50px">Licença / License</h1>
+<p style="margin-top: 30px;">Episode (Player on):</p>
+<img style="max-width: 400px;" src="./public/preview2.png">
+
+<h1 style="font: 50px; margin-top: 20px;">Licença / License</h1>
 
 <a href="https://opensource.org/licenses/MIT">MIT License</a>

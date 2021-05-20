@@ -30,6 +30,8 @@
 
 <h1 style="font: 50px">Preview</h1>
 
+<p>Website: <a href=""></a></p>
+
 <p>Home (Player off):</p>
 <img style="max-width: 400px;" src="./public/preview1.png">
 

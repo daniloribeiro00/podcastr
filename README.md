@@ -28,6 +28,47 @@
 
 <br>
 
+<h1 style="font: 50px">Instalação e Execução / Installation and Execution</h1>
+
+Clone o repositório em sua máquina e, em seguida execute o seguintes comando:
+
+Clone the repository into your computer and then run the following script:
+
+```
+yarn
+
+# ou / or
+
+npm install
+```
+
+Após isso, execute o comando à seguir:
+
+After that, run the following script:
+
+```
+yarn serve
+
+# ou / or
+
+npm run serve
+```
+
+Em um novo terminal, execute o comando:
+
+In a new terminal, run the script:
+
+```
+yarn dev
+
+# ou / or
+
+npm run dev
+```
+
+
+<br>
+
 <h1 style="font: 50px">Preview</h1>
 
 <p>Website: <a href=""></a></p>
